@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Suleiman Furmli",
+    "address": {
+      "street": "300 Rossland Road East",
+      "suite": "Suite 556",
+      "city": "Ajax",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L1Z0M1"
+    },
+    "phone": "+1-(905)-621-3827",
+    "email": "contact@panelexam.ca",
+    "fax": "+1-(647)-945-7684",
+    "website": "onestopim.ca",
+    "spoken_languages": "Arabic, Dari, English, Farsi, French, Hindi, Mandarin, Punjabi, Urdu"
+  },
+  {
+    "id": 2,
+    "name": "Hossai Furmli",
+    "address": {
+      "street": "300 Rossland Road East",
+      "suite": "Suite 102",
+      "city": "Ajax",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L1Z0M1"
+    },
+    "phone": "+1-(905)-621-3827",
+    "email": "contact@panelexam.ca",
+    "fax": "+1-(647)-945-7684",
+    "website": "www.onestopim.ca",
+    "spoken_languages": "Arabic, Dari, English, Farsi, French, Hindi, Mandarin, Punjabi, Urdu"
+  },
+  {
+    "id": 3,
+    "name": "Orville D'Souza",
+    "address": {
+      "street": "121 Wellington Street Wes",
+      "suite": "Suite 112",
+      "city": "Barrie",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L4N1L2"
+    },
+    "phone": "+1-(705)-712-0650",
+    "email": "barrieimmigrationmedical@gmail.com",
+    "website": "www.barrieimmigrationmedical.com",
+    "spoken_languages": "English, Gujarati, Konkani, Marathi, Punjabi, Urdu"
+  },
+  {
+    "id": 4,
+    "name": "John C. Kuhlmann",
+    "address": {
+      "street": "164 Queen Street East",
+      "suite": "Unit B103",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V1B3"
+    },
+    "phone": "+1-(416)-240-6065",
+    "email": "md@panelphysicianbrampton.ca",
+    "spoken_languages": "English, Farsi, French, Gujarati, Hindi, Korean, Mandarin, Portuguese, Punjabi, Russian, Spanish, Urdu"
+  },
+  {
+    "id": 5,
+    "name": "Hannah Hughes",
+    "address": {
+      "street": "36 Vodden St. E",
+      "suite": "Unit 203",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V4H4"
+    },
+    "phone": "+1-(905)-459-2700",
+    "fax": "+1-(647)-689-3014",
+    "email": "completeimmigrationmedical@gmail.com",
+    "website": "www.completeimmigration.ca",
+    "spoken_languages": "English"
+  },
+  {
+    "id": 6,
+    "name": "Alia Gray",
+    "address": {
+      "street": "36 Vodden St. E",
+      "suite": "Unit 203",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V4H4"
+    },
+    "phone": "+1-(905)-459-2700",
+    "fax": "+1-(647)-689-3014",
+    "email": "completeimmigrationmedical@gmail.com",
+    "website": "www.completeimmigration.ca",
+    "spoken_languages": "English"
+  },
+  {
+    "id": 7,
+    "name": "Zachary Seifer",
+    "address": {
+      "street": "36 Vodden St. E",
+      "suite": "Unit 203",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V4H4"
+    },
+    "phone": "+1-(905)-459-2700",
+    "fax": "+1-(647)-689-3014",
+    "email": "completeimmigrationmedical@gmail.com",
+    "website": "www.completeimmigration.ca",
+    "spoken_languages": "English, Hindi, Punjabi"
+  },
+  {
+    "id": 8,
+    "name": "Fahim Merali",
+    "address": {
+      "street": "36 Vodden St. E",
+      "suite": "Unit 203",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V4H4"
+    },
+    "phone": "+1-(905)-459-2700",
+    "fax": "+1-(647)-689-3014",
+    "email": "completeimmigrationmedical@gmail.com",
+    "website": "www.completeimmigration.ca",
+    "spoken_languages": "English, French, Gujarati, Kacchi"
+  },
+  {
+    "id": 9,
+    "name": "Afrah Raza",
+    "address": {
+      "street": "164 Queen Street East",
+      "suite": "Unit B103",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V1B3"
+    },
+    "phone": "+1-(416)-240-6065",
+    "email": "md@panelphysicianbrampton.ca",
+    "spoken_languages": "English, Farsi, French, Gujarati, Hindi, Korean, Mandarin, Portuguese, Punjabi, Russian, Spanish, Urdu"
+  },
+  {
+    "id": 10,
+    "name": "Emily Thelma Kuhlmann",
+    "address": {
+      "street": "164 Queen Street East",
+      "suite": "Unit B103",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V1B3"
+    },
+    "phone": "+1-(416)-240-6065",
+    "email": "md@panelphysicianbrampton.ca",
+    "spoken_languages": "English, Farsi, French, Gujarati, Hindi, Korean, Mandarin, Portuguese, Punjabi, Russian, Spanish, Urdu"
+  },
+  {
+    "id": 11,
+    "name": "Kira Bensimon",
+    "address": {
+      "street": "36 Vodden St. E",
+      "suite": "Unit 203",
+      "city": "Brampton",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "L6V4H4"
+    },
+    "phone": "+1-(905)-459-2700",
+    "fax": "+1-(647)-689-3014",
+    "email": "completeimmigrationmedical@gmail.com",
+    "website": "www.completeimmigration.ca",
+    "spoken_languages": "English"
+  },
+  {
+    "id": 12,
+    "name": "Sina Sakian",
+    "address": {
+      "street": "715 Coronation Blvd",
+      "suite": "Suite 4",
+      "city": "Cambridge",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "N1R7R1"
+    },
+    "phone": "+1-(800)-233-0382",
+    "fax": "+1-(226)-474-0113",
+    "email": "info@ontariome.ca",
+    "website": "www.ontariome.ca",
+    "spoken_languages": "English, Farsi"
+  },
+  {
+    "id": 13,
+    "name": "Imad Salim-Dahmis",
+    "address": {
+      "street": "715 Coronation Blvd",
+      "suite": "Suite 4",
+      "city": "Cambridge",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "N1R7R1"
+    },
+    "phone": "+1-(800)-233-0382",
+    "fax": "+1-(226)-474-0113",
+    "email": "info@ontariome.ca",
+    "website": "www.ontariome.ca",
+    "spoken_languages": "Arabic, English, Somali"
+  },
+  {
+    "id": 14,
+    "name": "Graeme Carl Schwindt",
+    "address": {
+      "street": "123 Rexdale Blvd",
+      "suite": "Unit 6",
+      "city": "Etobicoke",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "M9W1P1"
+    },
+    "phone": "+1-(416)-746-3828",
+    "email": "frontdesk@aimsgta.ca",
+    "website": "www.aimsmississauga.ca",
+    "spoken_languages": "English"
+  },
+  {
+    "id": 15,
+    "name": "John C. Kuhlmann",
+    "address": {
+      "street": "666 Burnhamthorpe Rd",
+      "suite": "Suite 202",
+      "city": "Etobicoke",
+      "province": "Ontario",
+      "country": "Canada",
+      "zipcode": "M9C2Z4"
+    },
+    "phone": "+1-(416)-622-0933",
+    "website": "www.panelphysician.ca",
+    "spoken_languages": "English, Farsi, French, Gujarati, Hindi, Korean, Mandarin, Portuguese, Punjabi, Russian, Spanish, Urdu"
+  }
+]
